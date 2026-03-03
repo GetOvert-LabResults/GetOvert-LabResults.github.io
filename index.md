@@ -1,4 +1,4 @@
-![GetOvert](/assets/images/GetOvert.png "GetOvert")
+![GetOvert](/GetOvert.png "GetOvert")
 
 # Lab Results
 
