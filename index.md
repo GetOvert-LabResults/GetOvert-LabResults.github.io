@@ -28,6 +28,9 @@
 
 # Watermelon Sugar High (2oz Shooter)
 
+* [2026.01][13]
+* [2025.001][12]
+
 # Where is my mind?
 
 [1]: <./coa/1008.2025.001.pdf> "2025.001"
@@ -41,3 +44,5 @@
 [9]: <./coa/paolo.2025.001.pdf> "2025.01"
 [10]: <./coa/off.with.their.heads.2025.001.pdf> "2025.01"
 [11]: <./coa/off.with.their.heads.2025.002.pdf> "2025.01"
+[12]: <./coa/wsh.2oz.2025.001.pdf> "2025.001"
+[13]: <./coa/wsh.2026.01.pdf> "2026.01"
