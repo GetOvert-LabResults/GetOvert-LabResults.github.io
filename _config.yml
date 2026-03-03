@@ -1,4 +1,2 @@
-title: []
-remote_theme: pages-themes/hacker@v0.2.0
-plugins:
-- jekyll-remote-theme
+title: [GetOvert Lab Results]
+remote_theme: pages-themes/minimal@v0.2.0
