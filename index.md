@@ -1,6 +1,6 @@
 ![GetOvert](/assets/GetOvert.png "GetOvert")
 
-# 1008 (Vanilla Root Beer)
+# 1008
 
 * [2025.001][1]
 * [2025.002][2]
@@ -15,3 +15,18 @@
 [4]: <./coa/1008.2025.004.pdf> "2025.004"
 [5]: <./coa/1008.2025.005.pdf> "2025.005"
 [6]: <./coa/1008.2025.006.pdf> "2025.006"
+
+# DePaolo
+
+# In the Clouds
+
+# Limeade
+
+# Off with Their Heads
+
+# Oh No! Black Cherry
+
+# Watermelon Sugar High (2oz Shooter)
+
+# Where is my mind?
+
