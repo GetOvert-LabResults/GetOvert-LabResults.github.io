@@ -13,11 +13,16 @@
 
 # DePaolo
 
+* [2025.001][9]
+
 # In the Clouds
 
 # Limeade
 
 # Off with Their Heads
+
+* [2025.002][11]
+* [2025.001][10]
 
 # Oh No! Black Cherry
 
@@ -33,3 +38,6 @@
 [6]: <./coa/1008.2025.006.pdf> "2025.006"
 [7]: <./coa/1008.2025.007.pdf> "2025.007"
 [8]: <./coa/1008.2026.01.pdf> "2026.01"
+[9]: <./coa/paolo.2025.001.pdf> "2025.01"
+[10]: <./coa/off.with.their.heads.2025.001.pdf> "2025.01"
+[11]: <./coa/off.with.their.heads.2025.002.pdf> "2025.01"
