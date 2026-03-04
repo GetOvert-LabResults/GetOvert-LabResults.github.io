@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Post Boil pH Calculator</title>
+    <link rel="stylesheet" href="phAdjustment.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="heading">Post Boil pH Calculator</h1>
+        Current pH:
+        <input type="number" class="input" id="currentPh" value="" placeholder="Enter your current pH">
+        Target pH:
+        <input type="number" class="input" id="targetPh" value="" placeholder="Enter your target pH">
+        Weight of grains used in pounds:
+        <input type="number" class="input" id="grainLbs" value="" placeholder="Enter weight of grains used in pounds">
+        Acid type used:
+        <select class="select" name="molarContent" id="molarContent">
+          <option value="11.04">88% Lactic Acid</option>
+          <option value="12.26">75% Phosphoric Acid</option>
+          <option value="14.8">85% Phosphoric Acid</option>
+        </select>
+        <button class="btn" id="btn">Compute</button>
+        <input disabled type="text" class="input" id="lactic-result">
+        Result is in mL
+    </div>
+    <script src="phAdjustment.js"></script>
+</body>
+</html>
