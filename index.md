@@ -1,5 +1,7 @@
 ![GetOvert](/assets/GetOvert.png "GetOvert")
 
+If you are looking to order any GetOvert products, they are available at [Covert Artisan Ales](www.drinkcovert.com).
+
 # 1008
 
 * [2026.01][8]
