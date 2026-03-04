@@ -10,7 +10,7 @@ function calculateAddition() {
   const protons = 30.262;
   const pHdiff = currentPhValue - targetPhValue;
   const mLValue = (grainKgValue * protons) * pHdiff / molarContentValue;
-  const roundedValue = Math.round(mLValue / 5) * 5;
+  const roundedValue = Math.round(mLValue);
 
   lacticInputEl.value = roundedValue;
 }
