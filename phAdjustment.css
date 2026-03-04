@@ -22,7 +22,12 @@ body{
 @media only screen and (max-width: 600px) {
     .container {
         width: 100%;
-        flex-direction: column; /* Stacks columns vertically on mobile */
+        padding: 20px;
+        display: flex;
+        flex-direction: column;
+        border-radius: 5px;
+        box-shadow: 0 10px 10px rgba(0,0,0,.3);
+        margin: 5px;
     }
 }
 
