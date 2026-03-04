@@ -21,7 +21,7 @@ body{
 /* Styles for screens smaller than 600px */
 @media only screen and (max-width: 600px) {
     .container {
-        width: 85%;
+        width: 90%;
         padding: 10px;
         display: flex;
         flex-direction: column;
