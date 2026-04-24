@@ -4,6 +4,7 @@
 
 # 1008
 
+* [2026.02][34]
 * [2026.01][8]
 * [2025.007][7]
 * [2025.006][6]
@@ -77,6 +78,10 @@
 
 * [2025.001] [15]
 
+# 420 Falls
+
+* [2026.01] [35] (Per One Fluid Ounce)
+
 ---
 
 > HEMP-DERIVED PRODUCTS ON THIS SITE CONTAIN A VALUE OF 0.3% OR LESS Δ9THC (OR NO MORE THAN 0.3% Δ9THC). DO NOT USE THESE PRODUCTS WITHOUT APPROVAL FROM A DOCTOR, ESPECIALLY IF YOU TAKE PRESCRIPTION MEDICATIONS.
@@ -116,3 +121,5 @@
 [31]: <./coa/wism.2026.01.pdf> "2026.01"
 [32]: <./coa/wsh.2026.01.pdf> "2026.01"
 [33]: <./coa/In.the.clouds.2026.02.pdf> "2026.02"
+[34]: <./coa/1008.2026.02.pdf> "2026.02"
+[35]: <./coa/420Falls.pdf> "2026.01"
